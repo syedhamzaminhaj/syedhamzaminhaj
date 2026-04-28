@@ -12,13 +12,13 @@ commercial experience to work at the intersection of
 evidence generation, market access, and HTA.
 
 ## Technical skills
-- R — OLS regression, fixed effects, interaction models
-- Excel — Markov cost-effectiveness models, PSA
-- Health economics — ICER, QALY, NMB, threshold analysis
+- R: OLS regression, fixed effects, interaction models
+- Excel: Markov cost-effectiveness models, PSA
+- Health economics: ICER, QALY, NMB, threshold analysis
 
 ## Current projects
 - 📊 Income-mortality gradient across 3,080 US counties (R)
-- 💊 Markov CEA model for COPD — Sulistix vs CT (Excel)
+- 💊 Markov CEA model for COPD, Sulistix vs CT (Excel)
 
 ## Looking for
 Market Access | HEOR | HTA | Healthcare Consulting
